@@ -12,4 +12,5 @@ yurikauanlopes@hotmail.com
 yuri_adami@estudante.sc.senai.br
 
 Banco de dados: https://github.com/YuriKauan/PortfolioTecnico3C/tree/main/Banco_de_Dados/usuario_bd
-
+Desenvolvimento de Sistemas: https://github.com/YuriKauan/PortfolioTecnico3C/tree/main/Desenvolvimento_Sistemas
+Programação de Aplicativos:
