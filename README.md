@@ -11,3 +11,5 @@ E-mails:yurikauanlopesadami@gmail.com
 yurikauanlopes@hotmail.com
 yuri_adami@estudante.sc.senai.br
 
+Banco de dados: https://github.com/YuriKauan/PortfolioTecnico3C/tree/main/Banco_de_Dados/usuario_bd
+
