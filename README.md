@@ -16,3 +16,5 @@ Banco de dados: https://github.com/YuriKauan/PortfolioTecnico3C/tree/main/Banco_
 Desenvolvimento de Sistemas: https://github.com/YuriKauan/PortfolioTecnico3C/tree/main/Desenvolvimento_Sistemas
 
 Programação de Aplicativos:https://github.com/YuriKauan/PortfolioTecnico3C/tree/main/Programacao_de_Aplicativos
+
+Testes de Sistemas: https://github.com/YuriKauan/PortfolioTecnico3C/tree/main/Teste_de_Sistema/Pets
